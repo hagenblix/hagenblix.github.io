@@ -11,17 +11,17 @@ main:
   - title: "Why We Fear AI"
     url: /wwfai/
 
-  - title: "Language"
-    url: /lang/    
+  - title: "Linguistics/NLP"
+    url: /linguistics/    
 
   - title: "Media"
-    url: /media/    
+    url: /media/  
     
   #- title: "Portfolio"
   #  url: /portfolio/
         
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
     
   #- title: "CV"
   #  url: /cv/

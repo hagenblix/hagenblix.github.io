@@ -23,13 +23,13 @@ repository               : "hagenblix.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Hagen Blix, PhD"
+  name             : "Hagen Blix"
   pronouns         : # example: "she/her"  
   bio              : "Writer, Linguist, AI Researcher"
   location         : "New York City"
   #employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hagenblix [æt] proton.me" 
 
   # Academic websites
   academia         : # URL
