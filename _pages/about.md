@@ -27,7 +27,7 @@ Podcast: This Machine Kills
 About Me
 ===========
 
-I am a cognitive scientist, linguist, occasional AI researcher, and freelance writer. I received my PhD from New York University, where I worked on natural language syntax and morphology with [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/).
+I am a cognitive scientist, linguist, occasional AI researcher, and freelance writer. I received my PhD from New York University, where I worked on natural language syntax and morphology with [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/) (which, fun fact for the non-linguists, makes me Noam Chomsky's [academic grandson](https://academictree.org/linguistics/tree.php?pid=959947)). 
 
 Over the last few years, I've gotten interested in Artificial Intelligence and its applications. I've written about AI in academic journals (e.g., our [paper on machine ethics](http://dx.doi.org/10.18653/v1/2022.naacl-main.56) which has been covered in [Psychology Today](https://www.psychologytoday.com/us/blog/ethically-speaking/202111/ai-can-make-moral-judgments-should-it), and in the [New York Times](https://www.nytimes.com/2021/11/19/technology/can-a-machine-learn-morality.html)). I also write in for a general audience in places like [Jacobin](https://jacobin.com/2025/02/tech-workers-silicon-valley-trump).
 
