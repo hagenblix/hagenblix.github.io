@@ -20,8 +20,6 @@ New Podcast Episode
 Podcast: This Machine Kills
 :  *May 13, 2025*: [AI is the Demon God of Capital](https://www.patreon.com/posts/405-ai-is-demon-128825323) with Jathan, Ed, and Jereme!
 
-New Essay
-: [Tech Worlers Can Still Fight Silicon Valley's Overlords](https://jacobin.com/2025/02/tech-workers-silicon-valley-trump), with Ingeborg Glimmer in Jacobin
 
 About Me
 ===========
