@@ -9,7 +9,7 @@ redirect_from:
 
 Writing
 ===========
-- **[Tech Workers Can Still Fight Silicon Valley’s Overlords](https://jacobin.com/2025/02/tech-workers-silicon-valley-trump)** (02-2025). With Ingeborg Glimmer. In Jacobin.
+- **[Tech Workers Can Still Fight Silicon Valley’s Overlords](https://jacobin.com/2025/02/tech-workers-silicon-valley-trump)**. With Ingeborg Glimmer in Jacobin. *February, 2025*
 
 
 Podcast Appearances
