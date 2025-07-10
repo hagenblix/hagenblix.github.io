@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I've published a book about AI, Class, and Capitalism together with my friend Ingeborg Glimmer. It's title is (a little tongue in cheek) [*Why We Fear AI*](https://bookshop.org/a/114797/9781945335174). If you're interested in what AI will do to politics or the future of work, check it out! You can read the introduction [here](https://hagenblix.github.io/files/why_we_fear_ai_sample.pdf)!
+I've published a book about AI, Class, and Capitalism together with my friend Ingeborg Glimmer. It's title is (a little tongue in cheek) [*Why We Fear AI*](https://bookshop.org/a/114797/9781945335174). If you're interested in what AI will do to politics or the future of work, check it out! You can read a sample [here](https://hagenblix.github.io/files/why_we_fear_ai_sample.pdf)!
 
 [![Why We Fear AI (Cover)](/images/whywefearai.jpg){:height="800px" width="517px"}](https://bookshop.org/a/114797/9781945335174)
 
