@@ -1,5 +1,5 @@
 ---
-title: 'Speed-Accuracy Tradeoffs, AI, Deskilling'
+title: 'Does AI Work? Some Thoughts on Speed-Accuracy Tradeoffs, AI, and Deskilling'
 date: 2025-07-03
 permalink: /posts/sats-ai-deskilling/
 tags:
@@ -8,7 +8,7 @@ tags:
   - hype
 ---
    
-In behavioral sciences, there is a ubiquitous effect, found in all kinds of situations: a speed-accuracy tradeoff. In this post I'll take that concept and use it to complicate the question "Does AI actually work?" in a way that will, I hope, make it easier to see what kind of [project](https://ali-alkhatib.com/blog/defining-ai) AI really is.  
+Does AI actually work? Is it fake? I want to put a little tool for thinking about that question into the box, one that I've been finding useful. In behavioral sciences, there is a ubiquitous effect, found in all kinds of situations: a speed-accuracy tradeoff. I'll take that concept and use it to complicate the question "Does AI actually work?" in a way that will, I hope, make it easier to see what kind of [project](https://ali-alkhatib.com/blog/defining-ai) AI really is.  
    
 So, what is a speed-accuracy tradeoff? Well, take some task, maybe a well-studied one from somewhere close to my own academic background, a so-called lexical decision task. We put some series of letters on a screen, and then ask people if this is a word (in English, or perhaps some other language that the person knows). As you might imagine, people who can read are usually quite excellent at deciding whether a sequence of letters is a word, or what we'd call a nonce word. But as you might also imagine, if we give them less and less time, forcing them to make the decision ever faster, there comes a point where performance starts to deteriorate. And the faster they have to be, the more "mistakes" people make. In other words, there is a tradeoff between speed and accuracy. Such speed-accuracy tradeoffs are ubiquitous, they've been studied for myriad tasks, and for humans and animals alike. Different tasks will obviously differ (even differ dramatically) in their particular tradeoffs, but we can visualize the general idea in a plot that shows some kind of negative correlation between speed and accuracy. The particulars may vary quite a bit, so here's some examples of what the tradeoffs could look like: 
  
