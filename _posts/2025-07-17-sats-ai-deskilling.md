@@ -1,6 +1,6 @@
 ---
 title: 'Does AI Work? Some Thoughts on Speed-Accuracy Tradeoffs, AI, and Deskilling'
-date: 2025-07-03
+date: 2025-07-17
 permalink: /posts/sats-ai-deskilling/
 tags:
   - artificial intelligence
