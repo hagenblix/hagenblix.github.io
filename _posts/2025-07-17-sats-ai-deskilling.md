@@ -2,6 +2,7 @@
 title: 'Does AI Work? Some Thoughts on Speed-Accuracy Tradeoffs, AI, and Deskilling'
 date: 2025-07-17
 permalink: /posts/sats-ai-deskilling/
+excerpt: "Does AI actually work? Is it fake? Let's talk about Speed-Accuracy Tradeoffs, and see if that can help us figure out what the question actually means."
 tags:
   - artificial intelligence
   - speed-accuracy tradeoffs
