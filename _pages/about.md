@@ -11,7 +11,10 @@ redirect_from:
 News
 ===========
 
-Upcoming Event (The P.I.T, Brooklyn) 
+New Blog Post!
+:   *July 17, 2025:* Wrote a little post about [Speed-Accuracy Tradeoffs and AI](https://hagenblix.github.io/posts/sats-ai-deskilling/).
+
+Event (The P.I.T, Brooklyn) 
 :   *July 11, 2025:* I'll be doing a book event & reading with collaborators at [The P.I.T.  in Brooklyn!](https://www.propertyistheft.org/events-1/2294g6dzfx5atk0fmwvif02b1uqyuc). Come by!
 
 New Podcast Episode
