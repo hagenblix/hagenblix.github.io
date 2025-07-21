@@ -14,14 +14,17 @@ News
 New Blog Post!
 :   *July 17, 2025:* Wrote a little post about [Speed-Accuracy Tradeoffs and AI](https://hagenblix.github.io/posts/sats-ai-deskilling/).
 
-Event (The P.I.T, Brooklyn) 
+Event: (The P.I.T, Brooklyn) 
 :   *July 11, 2025:* I'll be doing a book event & reading with collaborators at [The P.I.T.  in Brooklyn!](https://www.propertyistheft.org/events-1/2294g6dzfx5atk0fmwvif02b1uqyuc). Come by!
 
-New Podcast Episode
-: *June 27, 2025*: New podcast! [Who's Afraid of Artificial Intelligence?](https://shows.acast.com/the-ned-ludd-radio-hour/episodes/whos-afraid-of-artificial-intelligence) with Nick Hilton of The Ned Ludd Radio Hour!
+Podcast: The Ned Ludd Radio Hour
+: *June 27, 2025*: [Who's Afraid of Artificial Intelligence?](https://shows.acast.com/the-ned-ludd-radio-hour/episodes/whos-afraid-of-artificial-intelligence) with Nick Hilton of The Ned Ludd Radio Hour!
 
 Podcast: This Machine Kills
 :  *May 13, 2025*: [AI is the Demon God of Capital](https://www.patreon.com/posts/405-ai-is-demon-128825323) with Jathan, Ed, and Jereme!
+
+Podcast: Half The Answer
+: *May 8, 2025*: [Why We Fear AI](https://www.liberalcurrents.com/half-the-answer-11-why-we-fear-ai/) with Caitlin M. Green & Trent R. Nelson
 
 
 About Me
