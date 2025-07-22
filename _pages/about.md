@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ===========
-Review
+New Review of 'Why We Fear AI'
 :	*July 22, 2025:* "Why We Fear AI will linger with its audience far longer than any best-seller penned by yet another Silicon Valley exec." - Shirley Siluk wrote a [review of *Why We Fear AI*](https://shirleymsiluk.wordpress.com/2025/07/21/why-we-fear-ai-book-review/). Check it out!
 
 New Blog Post!
