@@ -10,17 +10,14 @@ redirect_from:
 
 News
 ===========
+Review
+:	*July 22, 2025:* "Why We Fear AI will linger with its audience far longer than any best-seller penned by yet another Silicon Valley exec." - Shirley Siluk wrote a [review of *Why We Fear AI*](https://shirleymsiluk.wordpress.com/2025/07/21/why-we-fear-ai-book-review/). Check it out!
+
 New Blog Post!
 :   *July 17, 2025:* Wrote a little post about [Speed-Accuracy Tradeoffs and AI](https://hagenblix.github.io/posts/sats-ai-deskilling/).
 
 Paper at ACL 2025
 :	*July 2025*: New paper at ACL 2025, [Domain Regeneration: How well do LLMs match syntactic properties of text domains?](https://arxiv.org/abs/2505.07784) with Da Ju & Adina Williams.
-
-Event: (The P.I.T, Brooklyn) 
-:   *July 11, 2025:* I'll be doing a book event & reading with collaborators at [The P.I.T.  in Brooklyn!](https://www.propertyistheft.org/events-1/2294g6dzfx5atk0fmwvif02b1uqyuc). Come by!
-
-Podcast: The Ned Ludd Radio Hour
-: *June 27, 2025*: [Who's Afraid of Artificial Intelligence?](https://shows.acast.com/the-ned-ludd-radio-hour/episodes/whos-afraid-of-artificial-intelligence) with Nick Hilton of The Ned Ludd Radio Hour!
 
 Podcast: This Machine Kills
 :  *May 13, 2025*: [AI is the Demon God of Capital](https://www.patreon.com/posts/405-ai-is-demon-128825323) with Jathan, Ed, and Jereme!
