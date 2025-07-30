@@ -10,6 +10,9 @@ redirect_from:
 
 News
 ===========
+Podcast: Block & Build
+:   *July 28, 2025:* Talked to  Cayden Mak of Convergence Magazine's [Build & Block](https://convergencemag.com/podcast/why-we-fear-ai-w-hagen-blix/) podcast about AI and Politics!
+
 New Review of 'Why We Fear AI'
 :	*July 22, 2025:* "Why We Fear AI will linger with its audience far longer than any best-seller penned by yet another Silicon Valley exec." - Shirley Siluk wrote a [review of *Why We Fear AI*](https://shirleymsiluk.wordpress.com/2025/07/21/why-we-fear-ai-book-review/). Check it out!
 
@@ -22,8 +25,15 @@ Paper at ACL 2025
 Podcast: This Machine Kills
 :  *May 13, 2025*: [AI is the Demon God of Capital](https://www.patreon.com/posts/405-ai-is-demon-128825323) with Jathan, Ed, and Jereme!
 
+
+---
+Old News
+===========
+
 Podcast: Half The Answer
 : *May 8, 2025*: [Why We Fear AI](https://www.liberalcurrents.com/half-the-answer-11-why-we-fear-ai/) with Caitlin M. Green & Trent R. Nelson
+
+---
 
 
 About Me
