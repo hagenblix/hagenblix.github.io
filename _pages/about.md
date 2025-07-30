@@ -26,14 +26,13 @@ Podcast: This Machine Kills
 :  *May 13, 2025*: [AI is the Demon God of Capital](https://www.patreon.com/posts/405-ai-is-demon-128825323) with Jathan, Ed, and Jereme!
 
 
----
-Old News
-===========
+
+<!-- Old News
 
 Podcast: Half The Answer
 : *May 8, 2025*: [Why We Fear AI](https://www.liberalcurrents.com/half-the-answer-11-why-we-fear-ai/) with Caitlin M. Green & Trent R. Nelson
 
----
+ -->
 
 
 About Me
