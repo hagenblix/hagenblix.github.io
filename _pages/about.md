@@ -15,7 +15,6 @@ Podcast: Half the Answer #27
 
 Book List - Critical Books on Tech & AI
 : Made a little curated list of [critical books on Big Tech & AI](https://bookshop.org/lists/critical-ai-tech-books)
->>>>>>> fdb46eb6c32943bff348bbd433027a8422909056
 
 Podcast: Block & Build
 :   *July 28, 2025:* Talked to  Cayden Mak of Convergence Magazine's [Build & Block](https://convergencemag.com/podcast/why-we-fear-ai-w-hagen-blix/) podcast about AI and Politics!
