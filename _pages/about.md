@@ -28,10 +28,6 @@ New Blog Post!
 Podcast: This Machine Kills
 :  *May 13, 2025*: [AI is the Demon God of Capital](https://www.patreon.com/posts/405-ai-is-demon-128825323) with Jathan Sadowski and Edward Ongweso Jr. (and producer Jereme Brown!)
 
-=======
-
-
-
 
 <!-- Old News
 
