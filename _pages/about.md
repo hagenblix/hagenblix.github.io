@@ -13,6 +13,10 @@ News
 Podcast: Half the Answer #27
 :	*August 13, 2025*: Talked to Caitlin M. Green & Trent R. Nelson of [Half The Answer](https://www.liberalcurrents.com/half-the-answer-27-ai-as-a-political-project/) about AI as a political project!
 
+Book List - Critical Books on Tech & AI
+: Made a little curated list of [critical books on Big Tech & AI](https://bookshop.org/lists/critical-ai-tech-books)
+>>>>>>> fdb46eb6c32943bff348bbd433027a8422909056
+
 Podcast: Block & Build
 :   *July 28, 2025:* Talked to  Cayden Mak of Convergence Magazine's [Build & Block](https://convergencemag.com/podcast/why-we-fear-ai-w-hagen-blix/) podcast about AI and Politics!
 
@@ -22,9 +26,12 @@ New Review of 'Why We Fear AI'
 New Blog Post!
 :   *July 17, 2025:* Wrote a little post about [Speed-Accuracy Tradeoffs and AI](https://hagenblix.github.io/posts/sats-ai-deskilling/).
 
-
 Podcast: This Machine Kills
 :  *May 13, 2025*: [AI is the Demon God of Capital](https://www.patreon.com/posts/405-ai-is-demon-128825323) with Jathan, Ed, and Jereme!
+
+
+=======
+
 
 
 
