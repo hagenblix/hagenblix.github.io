@@ -14,7 +14,8 @@ Writing
 
 Podcast Appearances
 ===========
-- [ Why We Fear AI w/ Hagen Blix](https://convergencemag.com/podcast/why-we-fear-ai-w-hagen-blix/) with  Cayden Mak of Convergence Magazine's **Build & Block**. *July 28, 2025*
+- [AI as a political project](https://www.liberalcurrents.com/half-the-answer-27-ai-as-a-political-project/) with Caitlin M. Green & Trent R. Nelson of Liberal Currents' **Half the Answer**. *August 13, 2025*
+- [Why We Fear AI w/ Hagen Blix](https://convergencemag.com/podcast/why-we-fear-ai-w-hagen-blix/) with  Cayden Mak of Convergence Magazine's **Build & Block**. *July 28, 2025*
 - [Who's Afraid of Artificial Intelligence?](https://shows.acast.com/the-ned-ludd-radio-hour/episodes/whos-afraid-of-artificial-intelligence) with Nick Hilton of **The Ned Ludd Radio Hour**. *June 27, 2025*
 - [AI is the Demon God of Capital](https://www.patreon.com/posts/405-ai-is-demon-128825323) with  with Jathan, Ed, and Jereme of **This Machine Kills**. *May 13, 2025*
 - [Why We Fear AI](https://www.liberalcurrents.com/halftheanswer/half-the-answer-11-why-we-fear-ai/) with Caitlin M. Green & Trent R. Nelson of **Half the Answer**. *May 8, 2025*

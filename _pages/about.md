@@ -10,6 +10,9 @@ redirect_from:
 
 News
 ===========
+Podcast: Half the Answer #27
+:	*August 13, 2025*: Talked to Caitlin M. Green & Trent R. Nelson of [Half The Answer](https://www.liberalcurrents.com/half-the-answer-27-ai-as-a-political-project/) about AI as a political project!
+
 Podcast: Block & Build
 :   *July 28, 2025:* Talked to  Cayden Mak of Convergence Magazine's [Build & Block](https://convergencemag.com/podcast/why-we-fear-ai-w-hagen-blix/) podcast about AI and Politics!
 
@@ -19,8 +22,6 @@ New Review of 'Why We Fear AI'
 New Blog Post!
 :   *July 17, 2025:* Wrote a little post about [Speed-Accuracy Tradeoffs and AI](https://hagenblix.github.io/posts/sats-ai-deskilling/).
 
-Paper at ACL 2025
-:	*July 2025*: New paper at ACL 2025, [Domain Regeneration: How well do LLMs match syntactic properties of text domains?](https://arxiv.org/abs/2505.07784) with Da Ju & Adina Williams.
 
 Podcast: This Machine Kills
 :  *May 13, 2025*: [AI is the Demon God of Capital](https://www.patreon.com/posts/405-ai-is-demon-128825323) with Jathan, Ed, and Jereme!
@@ -29,8 +30,10 @@ Podcast: This Machine Kills
 
 <!-- Old News
 
-Event: (The P.I.T, Brooklyn) 
+Paper at ACL 2025
+:	*July 2025*: New paper at ACL 2025, [Domain Regeneration: How well do LLMs match syntactic properties of text domains?](https://arxiv.org/abs/2505.07784) with Da Ju & Adina Williams.
 
+Event: (The P.I.T, Brooklyn)
 :   *July 11, 2025:* I'll be doing a book event & reading with collaborators at [The P.I.T.  in Brooklyn!](https://www.propertyistheft.org/events-1/2294g6dzfx5atk0fmwvif02b1uqyuc). Come by!
 
 Podcast: Half The Answer
