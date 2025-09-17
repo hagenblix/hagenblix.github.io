@@ -10,6 +10,9 @@ redirect_from:
 
 News
 ===========
+New Essay in Liberal Currents
+:	*September 16, 2025*: [Deflating “Hype” Won’t Save Us](https://www.liberalcurrents.com/deflating-hype-wont-save-us/). With Ingeborg Glimmer
+
 Podcast: Half the Answer #27
 :	*August 13, 2025*: Talked to Caitlin M. Green & Trent R. Nelson of [Half The Answer](https://www.liberalcurrents.com/half-the-answer-27-ai-as-a-political-project/) about AI as a political project!
 

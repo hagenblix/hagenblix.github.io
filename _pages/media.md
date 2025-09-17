@@ -9,7 +9,8 @@ redirect_from:
 
 Writing
 ===========
-- **[Tech Workers Can Still Fight Silicon Valley’s Overlords](https://jacobin.com/2025/02/tech-workers-silicon-valley-trump)**. With Ingeborg Glimmer in Jacobin. *February, 2025*
+- **[Deflating “Hype” Won’t Save Us](https://www.liberalcurrents.com/deflating-hype-wont-save-us/)**. *Liberal Currents*. With Ingeborg Glimmer. September, 2025
+- **[Tech Workers Can Still Fight Silicon Valley’s Overlords](https://jacobin.com/2025/02/tech-workers-silicon-valley-trump)**, *Jacobin Magazine*. With Ingeborg Glimmer. February, 2025
 
 
 Podcast Appearances
