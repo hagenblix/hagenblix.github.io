@@ -13,11 +13,17 @@ News
 New Essay in Liberal Currents
 :	*September 16, 2025*: [Deflating “Hype” Won’t Save Us](https://www.liberalcurrents.com/deflating-hype-wont-save-us/). With Ingeborg Glimmer
 
-Podcast: Half the Answer #27
-:	*August 13, 2025*: Talked to Caitlin M. Green & Trent R. Nelson of [Half The Answer](https://www.liberalcurrents.com/half-the-answer-27-ai-as-a-political-project/) about AI as a political project!
-
 Book List - Critical Books on Tech & AI
 : Made a little curated list of [critical books on Big Tech & AI](https://bookshop.org/lists/critical-ai-tech-books)
+
+New Blog Post!
+:   *July 17, 2025:* Wrote a little post about [Speed-Accuracy Tradeoffs and AI](https://hagenblix.github.io/posts/sats-ai-deskilling/).
+
+
+<!-- Old News
+
+Podcast: Half the Answer #27
+:	*August 13, 2025*: Talked to Caitlin M. Green & Trent R. Nelson of [Half The Answer](https://www.liberalcurrents.com/half-the-answer-27-ai-as-a-political-project/) about AI as a political project!
 
 Podcast: Block & Build
 :   *July 28, 2025:* Talked to  Cayden Mak of Convergence Magazine's [Build & Block](https://convergencemag.com/podcast/why-we-fear-ai-w-hagen-blix/) podcast about AI and Politics!
@@ -25,20 +31,14 @@ Podcast: Block & Build
 New Review of 'Why We Fear AI'
 :	*July 22, 2025:* "Why We Fear AI will linger with its audience far longer than any best-seller penned by yet another Silicon Valley exec." - Shirley Siluk wrote a [review of *Why We Fear AI*](https://shirleymsiluk.wordpress.com/2025/07/21/why-we-fear-ai-book-review/). Check it out!
 
-New Blog Post!
-:   *July 17, 2025:* Wrote a little post about [Speed-Accuracy Tradeoffs and AI](https://hagenblix.github.io/posts/sats-ai-deskilling/).
-
-Podcast: This Machine Kills
-:  *May 13, 2025*: [AI is the Demon God of Capital](https://www.patreon.com/posts/405-ai-is-demon-128825323) with Jathan Sadowski and Edward Ongweso Jr. (and producer Jereme Brown!)
-
-
-<!-- Old News
-
 Paper at ACL 2025
 :	*July 2025*: New paper at ACL 2025, [Domain Regeneration: How well do LLMs match syntactic properties of text domains?](https://arxiv.org/abs/2505.07784) with Da Ju & Adina Williams.
 
 Event: (The P.I.T, Brooklyn)
 :   *July 11, 2025:* I'll be doing a book event & reading with collaborators at [The P.I.T.  in Brooklyn!](https://www.propertyistheft.org/events-1/2294g6dzfx5atk0fmwvif02b1uqyuc). Come by!
+
+Podcast: This Machine Kills
+:  *May 13, 2025*: [AI is the Demon God of Capital](https://www.patreon.com/posts/405-ai-is-demon-128825323) with Jathan Sadowski and Edward Ongweso Jr. (and producer Jereme Brown!)
 
 Podcast: Half The Answer
 : *May 8, 2025*: [Why We Fear AI](https://www.liberalcurrents.com/half-the-answer-11-why-we-fear-ai/) with Caitlin M. Green & Trent R. Nelson
