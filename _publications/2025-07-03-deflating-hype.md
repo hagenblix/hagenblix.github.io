@@ -7,4 +7,4 @@ tags:
   - hype
 ---
 
-[Published Here](https://www.liberalcurrents.com/deflating-hype-wont-save-us/)
+Find it [published Here](https://www.liberalcurrents.com/deflating-hype-wont-save-us/)
