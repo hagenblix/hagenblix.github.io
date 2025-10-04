@@ -10,17 +10,20 @@ redirect_from:
 
 News
 ===========
+New Interview in Blood in the Machine
+:	*Oct 1, 2025*: Brian Merchant did an [interview](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages) with me!
+
 New Essay in Liberal Currents
 :	*September 16, 2025*: [Deflating “Hype” Won’t Save Us](https://www.liberalcurrents.com/deflating-hype-wont-save-us/). With Ingeborg Glimmer
-
-Book List - Critical Books on Tech & AI
-: Made a little curated list of [critical books on Big Tech & AI](https://bookshop.org/lists/critical-ai-tech-books)
 
 New Blog Post!
 :   *July 17, 2025:* Wrote a little post about [Speed-Accuracy Tradeoffs and AI](https://hagenblix.github.io/posts/sats-ai-deskilling/).
 
 
 <!-- Old News
+
+Book List - Critical Books on Tech & AI
+: Made a little curated list of [critical books on Big Tech & AI](https://bookshop.org/lists/critical-ai-tech-books)
 
 Podcast: Half the Answer #27
 :	*August 13, 2025*: Talked to Caitlin M. Green & Trent R. Nelson of [Half The Answer](https://www.liberalcurrents.com/half-the-answer-27-ai-as-a-political-project/) about AI as a political project!
