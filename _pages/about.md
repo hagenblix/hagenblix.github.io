@@ -10,17 +10,20 @@ redirect_from:
 
 News
 ===========
+New Essay in Jacobin
+:	*December 4, 2025*: [Don’t Believe the Hype — or Doom — About AI](https://jacobin.com/2025/12/hype-artificial-intelligence-vc-capital). With Ingeborg Glimmer
+
+
 New review of "Why We Fear AI"
 :	*Oct 30, 2025*: Matthew Kirschenbaum reviewed our book in [Critical Inquiry](https://criticalinquiry.uchicago.edu/matthew_kirschenbaum_reviews_why_we_fear_ai/)
-
-
-New Interview in Blood in the Machine
-:	*Oct 1, 2025*: Brian Merchant did an [interview](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages) with me!
 
 New Essay in Liberal Currents
 :	*September 16, 2025*: [Deflating “Hype” Won’t Save Us](https://www.liberalcurrents.com/deflating-hype-wont-save-us/). With Ingeborg Glimmer
 
 <!-- Old News
+
+New Interview in Blood in the Machine
+:	*Oct 1, 2025*: Brian Merchant did an [interview](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages) with me!
 
 New Blog Post!
 :   *July 17, 2025:* Wrote a little post about [Speed-Accuracy Tradeoffs and AI](https://hagenblix.github.io/posts/sats-ai-deskilling/).
