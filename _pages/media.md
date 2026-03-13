@@ -22,7 +22,7 @@ Interviews
 Podcast Appearances
 ===========
 - [Stupid Sexy Privacy](https://www.stupidsexyprivacy.com/a-simple-test-to-see-how-ready-you-are-to-fight-fascism/) with BJ Mendelson of **Stupid Sexy Privacy**. *March 6 2026*
-- [159 - Why We Fear AI feat. Hagen Blix](https://www.librarypunk.gay/e/159-why-we-fear-ai-feat-hagen-blix/) with Justin, Sadie, and Jay of **librarypunk**. *February 26, 2026*
+- [Why We Fear AI feat. Hagen Blix](https://www.librarypunk.gay/e/159-why-we-fear-ai-feat-hagen-blix/) with Justin, Sadie, and Jay of **librarypunk**. *February 26, 2026*
 - [AI as a Political Project](https://www.liberalcurrents.com/half-the-answer-27-ai-as-a-political-project/) with Caitlin M. Green & Trent R. Nelson of Liberal Currents' **Half the Answer**. *August 13, 2025*
 - [Why We Fear AI w/ Hagen Blix](https://convergencemag.com/podcast/why-we-fear-ai-w-hagen-blix/) with  Cayden Mak of Convergence Magazine's **Build & Block**. *July 28, 2025*
 - [Who's Afraid of Artificial Intelligence?](https://shows.acast.com/the-ned-ludd-radio-hour/episodes/whos-afraid-of-artificial-intelligence) with Nick Hilton of **The Ned Ludd Radio Hour**. *June 27, 2025*
