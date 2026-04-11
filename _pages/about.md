@@ -10,9 +10,14 @@ redirect_from:
 
 News
 ===========
+Panel *Philosophical Foundations of A.I.*
+: *March 24, 2026*: I'll be on a [panel at Princeton University](https://undergraduateresearch.princeton.edu/events/2026/philosophical-foundations-ai), together with Mel Andrews, Anya Tsvetkov, Adina Williams, Peter Melchior, and aime Fernández Fisac
+
+New Review of "Why We Fear AI"
+: *January 2026*:  Dominic P. Prianti reviewed our book for the American Library Association's [Choice](https://www.choice360.org/choice-pick/the-top-75-community-college-titles-january-2026-edition/) Magazine, and selected it as one of their top 75 Community College Titles
+
 New Essay in Jacobin
 :	*December 4, 2025*: [Don’t Believe the Hype — or Doom — About AI](https://jacobin.com/2025/12/hype-artificial-intelligence-vc-capital). With Ingeborg Glimmer
-
 
 New review of "Why We Fear AI"
 :	*Oct 30, 2025*: Matthew Kirschenbaum reviewed our book in [Critical Inquiry](https://criticalinquiry.uchicago.edu/matthew_kirschenbaum_reviews_why_we_fear_ai/)
@@ -62,6 +67,6 @@ I am a cognitive scientist, linguist, occasional AI researcher, and freelance wr
 
 Over the last few years, I've gotten interested in Artificial Intelligence and its applications. I've written about AI in academic journals (e.g., our [paper on machine ethics](http://dx.doi.org/10.18653/v1/2022.naacl-main.56) which has been covered in [Psychology Today](https://www.psychologytoday.com/us/blog/ethically-speaking/202111/ai-can-make-moral-judgments-should-it), and in the [New York Times](https://www.nytimes.com/2021/11/19/technology/can-a-machine-learn-morality.html)). I also write in for a general audience in places like [Jacobin](https://jacobin.com/2025/02/tech-workers-silicon-valley-trump).
 
-Most recently, I've published a book about AI, Class, and Capitalism together with my friend Ingeborg Glimmer. It's title is (a little tongue in cheek) [*Why We Fear AI*](https://www.commonnotions.org/why-we-fear-ai). If you're interested in what AI will do to politics or the future of work, check it out! You can read the introduction [here](https://hagenblix.github.io/files/why_we_fear_ai_sample.pdf)!
+Most recently, I've published a book about AI, Class, and Capitalism together with my friend Ingeborg Glimmer. It's title is (a little tongue in cheek) [*Why We Fear AI*](https://www.commonnotions.org/why-we-fear-ai). If you're interested in what AI will do to politics or the future of work, check it out! You can read a sample [here](https://hagenblix.github.io/files/why_we_fear_ai_sample.pdf)!
 
 [![Why We Fear AI (Cover)](/images/whywefearai.jpg){:height="800px" width="517px"}](https://www.commonnotions.org/why-we-fear-ai)
