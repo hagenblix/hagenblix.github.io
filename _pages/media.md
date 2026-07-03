@@ -21,7 +21,8 @@ Interviews
 
 Podcast Appearances
 ===========
-- [Stupid Sexy Privacy](https://www.stupidsexyprivacy.com/a-simple-test-to-see-how-ready-you-are-to-fight-fascism/) with BJ Mendelson of **Stupid Sexy Privacy**. *March 6 2026*
+- [Richard Dawkins Finds Love, and Other AI News](https://www.liberalcurrents.com/richard-dawkins-finds-love-isolation-as-a-societal-norm-and-other-ai-news-half-the-answer-84-with-hagen-blix/) with Caitlin M. Green & Trent R. Nelson of **Half the Answer**. *May 21, 2026*
+- [A Simple Test to See How Ready You Are to Fight Fascism](https://www.stupidsexyprivacy.com/a-simple-test-to-see-how-ready-you-are-to-fight-fascism/) with BJ Mendelson of **Stupid Sexy Privacy**. *March 6 2026*
 - [Why We Fear AI feat. Hagen Blix](https://www.librarypunk.gay/e/159-why-we-fear-ai-feat-hagen-blix/) with Justin, Sadie, and Jay of **librarypunk**. *February 26, 2026*
 - [AI as a Political Project](https://www.liberalcurrents.com/half-the-answer-27-ai-as-a-political-project/) with Caitlin M. Green & Trent R. Nelson of Liberal Currents' **Half the Answer**. *August 13, 2025*
 - [Why We Fear AI w/ Hagen Blix](https://convergencemag.com/podcast/why-we-fear-ai-w-hagen-blix/) with  Cayden Mak of Convergence Magazine's **Build & Block**. *July 28, 2025*
