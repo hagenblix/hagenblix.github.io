@@ -9,6 +9,7 @@ redirect_from:
 
 Selected Writing
 ===========
+- [The Socialist Case Against Nationalizing AI](https://jacobin.com/2026/07/ai-nationalization-wage-depression-de-skilling)**Jacobin Magazine**. With Ingeborg Glimmer. July 2026
 -  [Don’t Believe the Hype — or Doom — About AI](https://jacobin.com/2025/12/hype-artificial-intelligence-vc-capital). **Jacobin Magazine**. With Ingeborg Glimmer. December 2025
 - [Deflating “Hype” Won’t Save Us](https://www.liberalcurrents.com/deflating-hype-wont-save-us/). **Liberal Currents**. With Ingeborg Glimmer. September, 2025
 - [Tech Workers Can Still Fight Silicon Valley’s Overlords](https://jacobin.com/2025/02/tech-workers-silicon-valley-trump), **Jacobin Magazine**. With Ingeborg Glimmer. February, 2025
@@ -19,8 +20,9 @@ Interviews
 - ["AI is an attack from above on wages"](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages), with Brian Merchant from **Blood in the Machine**. *Oct 1, 2025*
 
 
-Podcast Appearances
+Podcast/Radio Appearances
 ===========
+- [Why We Fear AI](https://kpfa.org/episode/behind-the-news-july-30-2026/) with Doug Henwood of KPFA's **Behind the News** 
 - [Richard Dawkins Finds Love, and Other AI News](https://www.liberalcurrents.com/richard-dawkins-finds-love-isolation-as-a-societal-norm-and-other-ai-news-half-the-answer-84-with-hagen-blix/) with Caitlin M. Green & Trent R. Nelson of **Half the Answer**. *May 21, 2026*
 - [A Simple Test to See How Ready You Are to Fight Fascism](https://www.stupidsexyprivacy.com/a-simple-test-to-see-how-ready-you-are-to-fight-fascism/) with BJ Mendelson of **Stupid Sexy Privacy**. *March 6 2026*
 - [Why We Fear AI feat. Hagen Blix](https://www.librarypunk.gay/e/159-why-we-fear-ai-feat-hagen-blix/) with Justin, Sadie, and Jay of **librarypunk**. *February 26, 2026*

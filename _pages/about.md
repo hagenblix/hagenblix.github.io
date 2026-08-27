@@ -10,22 +10,25 @@ redirect_from:
 
 News
 ===========
+New Essay in jacobin
+: *July 22, 2026*: [The Socialist Case Against Nationalizing AI](https://jacobin.com/2026/07/ai-nationalization-wage-depression-de-skilling)**Jacobin Magazine**. With Ingeborg Glimmer
+
 Panel *Philosophical Foundations of A.I.*
 : *March 24, 2026*: I'll be on a [panel at Princeton University](https://undergraduateresearch.princeton.edu/events/2026/philosophical-foundations-ai), together with Mel Andrews, Anya Tsvetkov, Adina Williams, Peter Melchior, and aime Fernández Fisac
 
 New Review of "Why We Fear AI"
 : *January 2026*:  Dominic P. Prianti reviewed our book for the American Library Association's [Choice](https://www.choice360.org/choice-pick/the-top-75-community-college-titles-january-2026-edition/) Magazine, and selected it as one of their top 75 Community College Titles
 
-New Essay in Jacobin
-:	*December 4, 2025*: [Don’t Believe the Hype — or Doom — About AI](https://jacobin.com/2025/12/hype-artificial-intelligence-vc-capital). With Ingeborg Glimmer
-
 New review of "Why We Fear AI"
 :	*Oct 30, 2025*: Matthew Kirschenbaum reviewed our book in [Critical Inquiry](https://criticalinquiry.uchicago.edu/matthew_kirschenbaum_reviews_why_we_fear_ai/)
 
+<!-- Old News
+
+New Essay in Jacobin
+:	*December 4, 2025*: [Don’t Believe the Hype — or Doom — About AI](https://jacobin.com/2025/12/hype-artificial-intelligence-vc-capital). With Ingeborg Glimmer
+
 New Essay in Liberal Currents
 :	*September 16, 2025*: [Deflating “Hype” Won’t Save Us](https://www.liberalcurrents.com/deflating-hype-wont-save-us/). With Ingeborg Glimmer
-
-<!-- Old News
 
 New Interview in Blood in the Machine
 :	*Oct 1, 2025*: Brian Merchant did an [interview](https://www.bloodinthemachine.com/p/ai-is-an-attack-from-above-on-wages) with me!
