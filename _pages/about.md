@@ -11,7 +11,7 @@ redirect_from:
 News
 ===========
 New Essay in jacobin
-: *July 22, 2026*: [The Socialist Case Against Nationalizing AI](https://jacobin.com/2026/07/ai-nationalization-wage-depression-de-skilling)**Jacobin Magazine**. With Ingeborg Glimmer
+: *July 22, 2026*: [The Socialist Case Against Nationalizing AI](https://jacobin.com/2026/07/ai-nationalization-wage-depression-de-skilling) in **Jacobin Magazine**. With Ingeborg Glimmer
 
 Panel *Philosophical Foundations of A.I.*
 : *March 24, 2026*: I'll be on a [panel at Princeton University](https://undergraduateresearch.princeton.edu/events/2026/philosophical-foundations-ai), together with Mel Andrews, Anya Tsvetkov, Adina Williams, Peter Melchior, and aime Fernández Fisac
