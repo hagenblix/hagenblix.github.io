@@ -9,7 +9,7 @@ redirect_from:
 
 Selected Writing
 ===========
-- [The Socialist Case Against Nationalizing AI](https://jacobin.com/2026/07/ai-nationalization-wage-depression-de-skilling)**Jacobin Magazine**. With Ingeborg Glimmer. July 2026
+- [The Socialist Case Against Nationalizing AI](https://jacobin.com/2026/07/ai-nationalization-wage-depression-de-skilling). **Jacobin Magazine**. With Ingeborg Glimmer. July 2026
 -  [Don’t Believe the Hype — or Doom — About AI](https://jacobin.com/2025/12/hype-artificial-intelligence-vc-capital). **Jacobin Magazine**. With Ingeborg Glimmer. December 2025
 - [Deflating “Hype” Won’t Save Us](https://www.liberalcurrents.com/deflating-hype-wont-save-us/). **Liberal Currents**. With Ingeborg Glimmer. September, 2025
 - [Tech Workers Can Still Fight Silicon Valley’s Overlords](https://jacobin.com/2025/02/tech-workers-silicon-valley-trump), **Jacobin Magazine**. With Ingeborg Glimmer. February, 2025
