@@ -10,7 +10,7 @@ redirect_from:
 
 News
 ===========
-New Essay in jacobin
+New Essay in Jacobin
 : *July 22, 2026*: [The Socialist Case Against Nationalizing AI](https://jacobin.com/2026/07/ai-nationalization-wage-depression-de-skilling) in **Jacobin Magazine**. With Ingeborg Glimmer
 
 Panel *Philosophical Foundations of A.I.*
