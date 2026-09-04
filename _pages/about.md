@@ -65,11 +65,10 @@ Podcast: Half The Answer
 
 About Me
 ===========
-
-I am a cognitive scientist, linguist, occasional AI researcher, and freelance writer. I received my PhD from New York University, where I worked on natural language syntax and morphology with [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/) (which, fun fact for the non-linguists, makes me Noam Chomsky's [academic grandson](https://academictree.org/linguistics/tree.php?pid=959947)). 
-
-Over the last few years, I've gotten interested in Artificial Intelligence and its applications. I've written about AI in academic journals (e.g., our [paper on machine ethics](http://dx.doi.org/10.18653/v1/2022.naacl-main.56) which has been covered in [Psychology Today](https://www.psychologytoday.com/us/blog/ethically-speaking/202111/ai-can-make-moral-judgments-should-it), and in the [New York Times](https://www.nytimes.com/2021/11/19/technology/can-a-machine-learn-morality.html)). I also write in for a general audience in places like [Jacobin](https://jacobin.com/2025/02/tech-workers-silicon-valley-trump).
-
-Most recently, I've published a book about AI, Class, and Capitalism together with my friend Ingeborg Glimmer. It's title is (a little tongue in cheek) [*Why We Fear AI*](https://www.commonnotions.org/why-we-fear-ai). If you're interested in what AI will do to politics or the future of work, check it out! You can read a sample [here](https://hagenblix.github.io/files/why_we_fear_ai_sample.pdf)!
+Together with Ingeborg Glimmer, I'm co-author of *Why We Fear AI*, a book about the political economy of Artificial Intelligence, and its relation to the stories people tell (and like to hear!) about AI. You can read a sample [here](https://hagenblix.github.io/files/why_we_fear_ai_sample.pdf)!
 
 [![Why We Fear AI (Cover)](/images/whywefearai.jpg){:height="800px" width="517px"}](https://www.commonnotions.org/why-we-fear-ai)
+
+By training, I am a cognitive scientist and linguist. My PhD thesis explored the nature of and limits to mismatches between natural language syntax and morphology. Essentially, it asks what the basic building blocks of language might be, and challenged the classic conception of morphemes as the "smallest meaningful unit". Somehow, one of the ideas from that dissertation got termed a https://www.glossa-journal.org/article/id/24042/#heading2)[Blixeme] in the academic record (so, given the rules of the game, that means I'm technically immortal, right?). My PhD advisor was [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/) at New York University (which, fun fact for the non-linguists, makes me Noam Chomsky's [academic grandson](https://academictree.org/linguistics/tree.php?pid=959947)).
+
+Over the last few years, I've gotten interested in Large Language Models and through that in Artificial Intelligence and its applications more generally. I've written about AI in academic journals (e.g., our [paper on machine ethics](http://dx.doi.org/10.18653/v1/2022.naacl-main.56) which has been covered in [Psychology Today](https://www.psychologytoday.com/us/blog/ethically-speaking/202111/ai-can-make-moral-judgments-should-it), and in the [New York Times](https://www.nytimes.com/2021/11/19/technology/can-a-machine-learn-morality.html)). I also write in for a general audience in places like [Jacobin](https://jacobin.com/2025/02/tech-workers-silicon-valley-trump).
