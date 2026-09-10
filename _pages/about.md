@@ -67,7 +67,7 @@ About Me
 ===========
 Together with Ingeborg Glimmer, I'm co-author of *Why We Fear AI*, a book about the political economy of Artificial Intelligence, and its relation to the stories people tell (and like to hear!) about AI. You can read a sample [here](https://hagenblix.github.io/files/why_we_fear_ai_sample.pdf)!
 
-[![Why We Fear AI (Cover)](/images/whywefearai.jpg){:height="800px" width="517px"}](https://www.commonnotions.org/why-we-fear-ai)
+[![Why We Fear AI (Cover)](/images/whywefearai.jpg){:height="800px" width="517px"}](https://bookshop.org/a/114797/9781945335174)
 
 By training, I am a cognitive scientist and linguist. My PhD thesis explored the nature of and limits to mismatches between natural language syntax and morphology. Essentially, it asks what the basic building blocks of language might be, and challenged the classic conception of morphemes as the "smallest meaningful unit". Somehow, one of the ideas from that dissertation got termed a https://www.glossa-journal.org/article/id/24042/#heading2)[Blixeme] in the academic record (so, given the rules of the game, that means I'm technically immortal, right?). My PhD advisor was [Alec Marantz](https://wp.nyu.edu/morphlab/alec-marantz/) at New York University (which, fun fact for the non-linguists, makes me Noam Chomsky's [academic grandson](https://academictree.org/linguistics/tree.php?pid=959947)).
 
