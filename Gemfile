@@ -1,5 +1,14 @@
 source 'https://rubygems.org'
 
+install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
+  gem "tzinfo", "~> 1.2"
+  gem "tzinfo-data"
+end
+
+gem "bigdecimal"
+gem "csv"
+gem "logger"
+
 group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-feed'

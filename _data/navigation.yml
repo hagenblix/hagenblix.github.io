@@ -23,6 +23,9 @@ main:
   - title: "Blog"
     url: /blog/
     
+  - title: "Capital Podcast"
+    url: /understandingcapital/
+    
   #- title: "CV"
   #  url: /cv/
     
