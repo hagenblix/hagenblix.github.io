@@ -10,11 +10,11 @@ redirect_from:
 
 News
 ===========
+The Intercept quotes our book
+: *September 14, 2026: Looks like our book shoped up in [The Intercept](https://theintercept.com/2026/09/14/ai-doom-apocalypse-risk/) today
+
 New Essay in Jacobin
 : *July 22, 2026*: [The Socialist Case Against Nationalizing AI](https://jacobin.com/2026/07/ai-nationalization-wage-depression-de-skilling) in **Jacobin Magazine**. With Ingeborg Glimmer
-
-Panel *Philosophical Foundations of A.I.*
-: *March 24, 2026*: I'll be on a [panel at Princeton University](https://undergraduateresearch.princeton.edu/events/2026/philosophical-foundations-ai), together with Mel Andrews, Anya Tsvetkov, Adina Williams, Peter Melchior, and aime Fernández Fisac
 
 New Review of "Why We Fear AI"
 : *January 2026*:  Dominic P. Prianti reviewed our book for the American Library Association's [Choice](https://www.choice360.org/choice-pick/the-top-75-community-college-titles-january-2026-edition/) Magazine, and selected it as one of their top 75 Community College Titles
@@ -23,6 +23,9 @@ New review of "Why We Fear AI"
 :	*Oct 30, 2025*: Matthew Kirschenbaum reviewed our book in [Critical Inquiry](https://criticalinquiry.uchicago.edu/matthew_kirschenbaum_reviews_why_we_fear_ai/)
 
 <!-- Old News
+
+Panel *Philosophical Foundations of A.I.*
+: *March 24, 2026*: I'll be on a [panel at Princeton University](https://undergraduateresearch.princeton.edu/events/2026/philosophical-foundations-ai), together with Mel Andrews, Anya Tsvetkov, Adina Williams, Peter Melchior, and aime Fernández Fisac
 
 New Essay in Jacobin
 :	*December 4, 2025*: [Don’t Believe the Hype — or Doom — About AI](https://jacobin.com/2025/12/hype-artificial-intelligence-vc-capital). With Ingeborg Glimmer

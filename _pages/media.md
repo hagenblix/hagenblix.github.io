@@ -34,3 +34,13 @@ Podcast/Radio Appearances
 - [Deskill, with Hagen Blix](https://shows.acast.com/the-data-fix/episodes/deskill-with-hagen-blix) with Dr. Mél Hogan of **The Data Fix**. *March 17, 2025*
 
 
+
+My Research in the Media
+=============
+- [The Intercept](https://theintercept.com/2026/09/14/ai-doom-apocalypse-risk/) quotes our book, Why We Fear AI
+
+- [Psychology Today](https://www.psychologytoday.com/us/blog/ethically-speaking/202111/ai-can-make-moral-judgments-should-it) discusses our [paper on machine ethics](https://arxiv.org/abs/2111.04158)
+
+- My co-authors Zeerak Talat and Ryan Cotterell talk about our [take on machine ethics](https://arxiv.org/abs/2111.04158) in the [New York Times](https://www.nytimes.com/2021/11/19/technology/can-a-machine-learn-morality.html)
+
+
