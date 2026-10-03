@@ -11,7 +11,7 @@ redirect_from:
 News
 ===========
 The Intercept quotes our book
-: *September 14, 2026: Looks like our book shoped up in [The Intercept](https://theintercept.com/2026/09/14/ai-doom-apocalypse-risk/) today
+: *September 14, 2026*: Looks like our book shoped up in [The Intercept](https://theintercept.com/2026/09/14/ai-doom-apocalypse-risk/) today
 
 New Essay in Jacobin
 : *July 22, 2026*: [The Socialist Case Against Nationalizing AI](https://jacobin.com/2026/07/ai-nationalization-wage-depression-de-skilling) in **Jacobin Magazine**. With Ingeborg Glimmer

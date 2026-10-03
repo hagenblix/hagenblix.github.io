@@ -22,7 +22,7 @@ Interviews
 
 Podcast/Radio Appearances
 ===========
-- [Why We Fear AI](https://kpfa.org/episode/behind-the-news-july-30-2026/) with Doug Henwood of KPFA's **Behind the News** 
+- [Why We Fear AI](https://kpfa.org/episode/behind-the-news-july-30-2026/) with Doug Henwood of KPFA's **Behind the News**. *July 30, 2026*
 - [Richard Dawkins Finds Love, and Other AI News](https://www.liberalcurrents.com/richard-dawkins-finds-love-isolation-as-a-societal-norm-and-other-ai-news-half-the-answer-84-with-hagen-blix/) with Caitlin M. Green & Trent R. Nelson of **Half the Answer**. *May 21, 2026*
 - [A Simple Test to See How Ready You Are to Fight Fascism](https://www.stupidsexyprivacy.com/a-simple-test-to-see-how-ready-you-are-to-fight-fascism/) with BJ Mendelson of **Stupid Sexy Privacy**. *March 6 2026*
 - [Why We Fear AI feat. Hagen Blix](https://www.librarypunk.gay/e/159-why-we-fear-ai-feat-hagen-blix/) with Justin, Sadie, and Jay of **librarypunk**. *February 26, 2026*
